@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD797
+D Op Amp
+F datasheets/analog_devices/AD797.pdf
+$ENDCMP
+#
 $CMP AD8421
 D Instrumentation amplifier, low power, 3 nV/root Hz
 K INSTRUMENTATION
