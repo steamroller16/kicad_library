@@ -17,6 +17,11 @@ K Diff
 F datasheets/analog_devices/AD8475.pdf
 $ENDCMP
 #
+$CMP ADS1282
+D High-Resolution ADC
+F datasheets/ti/ads1282.pdf
+$ENDCMP
+#
 $CMP LT1115
 D Op Amp
 F datasheets/linear/LT1115fa.pdf
