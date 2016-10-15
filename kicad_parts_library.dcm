@@ -11,6 +11,12 @@ K INSTRUMENTATION
 F datasheets/analog_devices/AD8421.pdf
 $ENDCMP
 #
+$CMP AD8475
+D Precision Fully Diff Amp
+K Diff
+F datasheets/analog_devices/AD8475.pdf
+$ENDCMP
+#
 $CMP LT1115
 D Op Amp
 F datasheets/linear/LT1115fa.pdf
