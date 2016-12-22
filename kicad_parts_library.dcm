@@ -27,6 +27,11 @@ D Op Amp
 F datasheets/linear/LT1115fa.pdf
 $ENDCMP
 #
+$CMP LT1460
+D Precision Reference
+F http://cds.linear.com/docs/en/datasheet/1460fc.pdf
+$ENDCMP
+#
 $CMP LT3032
 D Dual LDO
 F http://cds.linear.com/docs/en/datasheet/3032fe.pdf
