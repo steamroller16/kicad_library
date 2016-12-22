@@ -27,6 +27,11 @@ D Op Amp
 F datasheets/linear/LT1115fa.pdf
 $ENDCMP
 #
+$CMP LT3032
+D Dual LDO
+F http://cds.linear.com/docs/en/datasheet/3032fe.pdf
+$ENDCMP
+#
 $CMP LT3463
 D Dual DC/DC Converter
 F datasheets/linear/LT3463f.pdf
