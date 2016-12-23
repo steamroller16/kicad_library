@@ -22,6 +22,11 @@ D High-Resolution ADC
 F datasheets/ti/ads1282.pdf
 $ENDCMP
 #
+$CMP CB3
+D HCMOS/TTL Clock Oscillator
+F http://www.ctscorp.com/wp-content/uploads/2015/11/008-0256-0.pdf
+$ENDCMP
+#
 $CMP LT1115
 D Op Amp
 F datasheets/linear/LT1115fa.pdf
