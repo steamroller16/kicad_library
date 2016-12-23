@@ -44,7 +44,7 @@ $ENDCMP
 #
 $CMP LT3463
 D Dual DC/DC Converter
-F datasheets/linear/LT3463f.pdf
+F http://cds.linear.com/docs/en/datasheet/3463f.pdf
 $ENDCMP
 #
 $CMP PIC16(L)F1705-I/P
