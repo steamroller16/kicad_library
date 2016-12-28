@@ -14,7 +14,7 @@ $ENDCMP
 $CMP AD8475
 D Precision Fully Diff Amp
 K Diff
-F datasheets/analog_devices/AD8475.pdf
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8475.pdf
 $ENDCMP
 #
 $CMP ADS1282
