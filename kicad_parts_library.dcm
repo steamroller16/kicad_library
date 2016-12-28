@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP AD797
 D Op Amp
-F datasheets/analog_devices/AD797.pdf
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD797.pdf
 $ENDCMP
 #
 $CMP AD8421
