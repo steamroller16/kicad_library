@@ -89,6 +89,11 @@ D Dual DC/DC Converter
 F http://cds.linear.com/docs/en/datasheet/3463f.pdf
 $ENDCMP
 #
+$CMP LT6375
+D ±270V Common Mode Voltage Difference Amplifier
+F http://cds.linear.com/docs/en/datasheet/6375fa.pdf
+$ENDCMP
+#
 $CMP PIC16(L)F1705-I/P
 D 8192W FLASH, 1024B SRAM, PDIP-14
 K FLASH-Based 8-Bit CMOS Microcontroller Low Power
