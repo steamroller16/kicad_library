@@ -69,6 +69,11 @@ K linear regulator ldo adjustable positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
+$CMP LT1012A
+D Op Amp
+F http://cds.linear.com/docs/en/datasheet/1012afbs.pdf
+$ENDCMP
+#
 $CMP LT1115
 D Op Amp
 F datasheets/linear/LT1115fa.pdf
