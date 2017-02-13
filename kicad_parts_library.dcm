@@ -17,6 +17,11 @@ K Diff
 F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8475.pdf
 $ENDCMP
 #
+$CMP ADS1259
+D High Resolution Delta Sigma ADC
+F http://www.ti.com/lit/ds/symlink/ads1259.pdf
+$ENDCMP
+#
 $CMP ADS1282
 D High-Resolution ADC
 F http://www.ti.com/lit/ds/symlink/ads1282.pdf
