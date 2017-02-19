@@ -74,6 +74,11 @@ K linear regulator ldo adjustable positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
+$CMP LMP8350
+D Fully Differential Amplifier
+F http://www.ti.com/lit/ds/symlink/lmp8350.pdf
+$ENDCMP
+#
 $CMP LT1012A
 D Op Amp
 F http://cds.linear.com/docs/en/datasheet/1012afbs.pdf
