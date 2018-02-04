@@ -124,4 +124,10 @@ $CMP STM32L433xx
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/f7/a0/fc/27/24/4e/4f/3f/DM00257192.pdf/files/DM00257192.pdf/jcr:content/translations/en.DM00257192.pdf
 $ENDCMP
 #
+$CMP TIP29
+D 1A 100V, On Semiconductor Transistor NPN, TO-220
+K Complementary Silicon Plastic Power Transistors
+F http://www.onsemi.com/pub/Collateral/TIP29B-D.PDF
+$ENDCMP
+#
 #End Doc Library
