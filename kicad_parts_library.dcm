@@ -109,6 +109,12 @@ D ±270V Common Mode Voltage Difference Amplifier
 F http://cds.linear.com/docs/en/datasheet/6375fa.pdf
 $ENDCMP
 #
+$CMP MIC5212
+D Dual 500 mA LDO Regulator
+K LDO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005774A.pdf
+$ENDCMP
+#
 $CMP OPA827
 D Op Amp
 F http://www.ti.com/lit/ds/symlink/opa827.pdf
