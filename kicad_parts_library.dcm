@@ -120,6 +120,11 @@ D Op Amp
 F http://www.ti.com/lit/ds/symlink/opa827.pdf
 $ENDCMP
 #
+$CMP PGA280
+D Zero-Drift, High-Voltage, Programmable Gain Instrumentation Amplifier
+F http://www.ti.com/lit/ds/symlink/pga280.pdf
+$ENDCMP
+#
 $CMP PIC16(L)F1705-I/P
 D 8192W FLASH, 1024B SRAM, PDIP-14
 K FLASH-Based 8-Bit CMOS Microcontroller Low Power
