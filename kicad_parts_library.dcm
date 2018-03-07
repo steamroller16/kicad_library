@@ -120,6 +120,11 @@ D Op Amp
 F http://www.ti.com/lit/ds/symlink/opa827.pdf
 $ENDCMP
 #
+$CMP PDM2-S
+D DC-DC CONVERTER
+F https://www.cui.com/product/resource/pdm2-s.pdf
+$ENDCMP
+#
 $CMP PGA280
 D Zero-Drift, High-Voltage, Programmable Gain Instrumentation Amplifier
 F http://www.ti.com/lit/ds/symlink/pga280.pdf
