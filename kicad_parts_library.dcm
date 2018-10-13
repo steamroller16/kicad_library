@@ -27,6 +27,12 @@ D High-Resolution ADC
 F http://www.ti.com/lit/ds/symlink/ads1282.pdf
 $ENDCMP
 #
+$CMP ADuM5000
+D 2.5 kV, Isolated DC-to-DC Converter
+K Isolator
+F http://www.analog.com/media/en/technical-documentation/data-sheets/adum5000.pdf
+$ENDCMP
+#
 $CMP CB3
 D HCMOS/TTL Clock Oscillator
 F http://www.ctscorp.com/wp-content/uploads/2015/11/008-0256-0.pdf
