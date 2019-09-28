@@ -115,6 +115,12 @@ D ±270V Common Mode Voltage Difference Amplifier
 F http://cds.linear.com/docs/en/datasheet/6375fa.pdf
 $ENDCMP
 #
+$CMP LT8302
+D 42VIN Micropower No-Opto Isolated Flyback Converter with 65V/3.6A Switch, SOIC-8-1EP
+K Flyback switcher
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LT8302.pdf
+$ENDCMP
+#
 $CMP MIC5212
 D Dual 500 mA LDO Regulator
 K LDO
