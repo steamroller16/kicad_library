@@ -27,6 +27,11 @@ D High-Resolution ADC
 F http://www.ti.com/lit/ds/symlink/ads1282.pdf
 $ENDCMP
 #
+$CMP ADXL206
+D Precision, ±5 g, Dual-Axis, High Temperature iMEMS Accelerometer
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL206.PDF
+$ENDCMP
+#
 $CMP ADuM5000
 D 2.5 kV, Isolated DC-to-DC Converter
 K Isolator
