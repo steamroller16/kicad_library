@@ -90,6 +90,11 @@ K linear regulator ldo adjustable positive
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
+$CMP LM27222M
+D High-Speed 4.5 A Synchronous MOSFET Driver
+F https://www.ti.com/lit/ds/symlink/lm27222.pdf
+$ENDCMP
+#
 $CMP LMP8350
 D Fully Differential Amplifier
 F http://www.ti.com/lit/ds/symlink/lmp8350.pdf
