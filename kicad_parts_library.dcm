@@ -141,6 +141,12 @@ K Flyback switcher
 F https://www.analog.com/media/en/technical-documentation/data-sheets/LT8302.pdf
 $ENDCMP
 #
+$CMP MAX821SUS
+D 4-Pin µP Voltage Monitors with Pin-Selectable Power-On Reset Timeout Delay
+K Supervisor Reset
+F https://datasheets.maximintegrated.com/en/ds/MAX821-MAX822T.pdf
+$ENDCMP
+#
 $CMP MIC5212
 D Dual 500 mA LDO Regulator
 K LDO
