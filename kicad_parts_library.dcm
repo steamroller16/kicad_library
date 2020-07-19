@@ -22,6 +22,11 @@ D High Resolution Delta Sigma ADC
 F http://www.ti.com/lit/ds/symlink/ads1259.pdf
 $ENDCMP
 #
+$CMP ADS1278
+D Octal, Simultaneous Sampling, 24-Bit Analog-to-Digital Converter
+F http://www.ti.com/lit/gpn/ads1278
+$ENDCMP
+#
 $CMP ADS1282
 D High-Resolution ADC
 F http://www.ti.com/lit/ds/symlink/ads1282.pdf
