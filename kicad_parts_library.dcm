@@ -17,6 +17,12 @@ K Diff
 F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8475.pdf
 $ENDCMP
 #
+$CMP AD8605
+D Precision, Low Noise, CMOS, Rail-to-Rail, Input/Output Operational Amplifiers, TSOT-23-5
+K single opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf
+$ENDCMP
+#
 $CMP ADS1259
 D High Resolution Delta Sigma ADC
 F http://www.ti.com/lit/ds/symlink/ads1259.pdf
