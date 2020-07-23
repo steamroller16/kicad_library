@@ -195,6 +195,12 @@ K Complementary Silicon Plastic Power Transistors
 F http://www.onsemi.com/pub/Collateral/TIP29B-D.PDF
 $ENDCMP
 #
+$CMP Transformer_1P_1S_Wurth_750313460
+D Transformer, single primary, single secondary
+K transformer coil magnet
+F https://katalog.we-online.de/ctm/datasheet/750313460.pdf
+$ENDCMP
+#
 $CMP Transformer_1P_2S_Wurth_750313457
 D Transformer, single primary, dual secondary
 K transformer coil magnet
