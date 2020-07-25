@@ -177,6 +177,7 @@ $ENDCMP
 $CMP NHD-0420CW-AB3
 D Character OLED Display Module
 K OLED display
+F www.newhavendisplay.com/specs/NHD-0420CW-AB3.pdf
 $ENDCMP
 #
 $CMP OPA827
