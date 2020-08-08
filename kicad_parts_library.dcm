@@ -107,6 +107,12 @@ D 2-Axis Magnetic Sensors
 F https://neurophysics.ucsd.edu/Manuals/Honeywell/HMC%201001%20and%20HMC%201002.pdf
 $ENDCMP
 #
+$CMP ISO1042DWV
+D Isolated CAN Transceiver, SOIC-8
+K CAN Isolated
+F http://www.ti.com/lit/ds/symlink/iso1042.pdf
+$ENDCMP
+#
 $CMP LM1117-1.8
 D 800mA Low-Dropout Linear Regulator, 1.8V fixed output
 K linear regulator ldo fixed positive
