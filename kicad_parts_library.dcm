@@ -255,4 +255,8 @@ K transformer coil magnet
 F https://katalog.we-online.de/ctm/datasheet/750313457.pdf
 $ENDCMP
 #
+$CMP USB2422-I_MJ
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001726B.pdf
+$ENDCMP
+#
 #End Doc Library
