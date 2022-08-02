@@ -1,7 +1,22 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +16V2
+D Power symbol creates a global label with name "+16V2"
+K power-flag
+$ENDCMP
+#
+$CMP +4V5
+D Power symbol creates a global label with name "+4V5"
+K power-flag
+$ENDCMP
+#
 $CMP +5V_ISO
 D Power symbol creates a global label with name "+5V_ISO"
+K power-flag
+$ENDCMP
+#
+$CMP -8V6
+D Power symbol creates a global label with name "-8V6"
 K power-flag
 $ENDCMP
 #
