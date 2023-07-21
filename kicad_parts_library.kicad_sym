@@ -1654,7 +1654,7 @@
     (symbol "ADS1281_0_1"
       (rectangle (start -11.43 39.37) (end 11.43 -39.37)
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "ADS1281_1_1"
@@ -1784,7 +1784,7 @@
     (symbol "ADS1282_0_1"
       (rectangle (start -11.43 39.37) (end 11.43 -39.37)
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "ADS1282_1_1"
